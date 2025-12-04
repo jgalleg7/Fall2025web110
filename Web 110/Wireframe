@@ -1,0 +1,61 @@
+<!-- Joel Gallegos, 09/08/26-->
+
+<html lang="en" > 
+	<head> 
+	<title>Wireframe Basics</title> 
+	<meta charset="utf-8">
+	</head> 
+	<body> <!-- contains everything that will show uo in the page --> 
+		<header> 
+			<h1> Wireframe</h1> 
+		</header> 
+		<nav> <!-- navigation Links--> 
+			<a href= "wireframe.html">Home <a/> &nbsp;&nbsp;
+			<a href="images/cat.jpg"> </a> &nbsp;&nbsp;
+			<a href="../index.html"> </a> &nbsp;&nbsp;
+			<a href="../images/dog.jpg"> </a> &nbsp;&nbsp;
+		
+		</nav> 
+		<hr> 
+		
+		<main> 
+			<h2> This is my heading</h2> 
+			<h3> This is my heading</h3> 
+			<h4> This is my heading</h4> 
+			<h5> This is my heading</h5> 
+			<h6> This is my heading</h6> 
+		<br> <br> 
+		<p> This is<br><br> a Paragraph.</p> 
+		<blockquote cite="www.google.com">I am a quote! </blockquote>
+		<p> This is an example of <em>emphasis</em>, <mark>marking</mark>, <abbr title="this is the full word">abbreviation</abbr>, <bdo dir="rtl"> direction</bdo>, and <strong>strong</strong></p>
+<br>
+<a href="http://www.jccc.edu"target="blank"> Here is a link to the JCCC website </a>
+		<!-- absolute link -->
+		<div> <!-- basically a container for stuff-->
+		<ol type ="a"><!-- ordered list, for things that need to be un order-->
+			<li>Item 1</li> 
+			<li>Item2</li> 
+			<li>Item3</li> 
+		</ol>
+		
+		<ul type="square"> <!-- unordered list -->
+		<li>Item 1</li> 
+			<li>Item2</li> 
+			<li>Item3</li> 
+			</ul>
+		<d1>
+			<dt> Description term 1 </dt>
+			<dd> Describtion definition 1 </dd> 
+			<dt> Question 1 </dt> 
+			<dd> Answer 1 </dd> 
+		</d1>	
+		</div> 
+		</main> 
+		<footer> 
+			<small> Copyright &copy; Joel Gallegos &amp; Web 110</small><br>
+			<a href="mailto:jgalleg7@stumail.jccc.edu"> Email me </a>
+		</footer> 
+
+</body>
+/html>
+	
